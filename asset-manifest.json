@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/unpacked-dev/static/css/main.2b799540.chunk.css",
-    "main.js": "/unpacked-dev/static/js/main.0314aa8d.chunk.js",
-    "main.js.map": "/unpacked-dev/static/js/main.0314aa8d.chunk.js.map",
+    "main.css": "/unpacked-dev/static/css/main.ae475c16.chunk.css",
+    "main.js": "/unpacked-dev/static/js/main.26b10fd4.chunk.js",
+    "main.js.map": "/unpacked-dev/static/js/main.26b10fd4.chunk.js.map",
     "runtime-main.js": "/unpacked-dev/static/js/runtime-main.b88c1036.js",
     "runtime-main.js.map": "/unpacked-dev/static/js/runtime-main.b88c1036.js.map",
     "static/js/2.46e30b43.chunk.js": "/unpacked-dev/static/js/2.46e30b43.chunk.js",
     "static/js/2.46e30b43.chunk.js.map": "/unpacked-dev/static/js/2.46e30b43.chunk.js.map",
     "index.html": "/unpacked-dev/index.html",
-    "precache-manifest.d4bef86b6564c6216737994f090452cb.js": "/unpacked-dev/precache-manifest.d4bef86b6564c6216737994f090452cb.js",
+    "precache-manifest.74f2a40e1df8cbc2b80a318c3a0ee771.js": "/unpacked-dev/precache-manifest.74f2a40e1df8cbc2b80a318c3a0ee771.js",
     "service-worker.js": "/unpacked-dev/service-worker.js",
-    "static/css/main.2b799540.chunk.css.map": "/unpacked-dev/static/css/main.2b799540.chunk.css.map",
+    "static/css/main.ae475c16.chunk.css.map": "/unpacked-dev/static/css/main.ae475c16.chunk.css.map",
     "static/js/2.46e30b43.chunk.js.LICENSE.txt": "/unpacked-dev/static/js/2.46e30b43.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b88c1036.js",
     "static/js/2.46e30b43.chunk.js",
-    "static/css/main.2b799540.chunk.css",
-    "static/js/main.0314aa8d.chunk.js"
+    "static/css/main.ae475c16.chunk.css",
+    "static/js/main.26b10fd4.chunk.js"
   ]
 }
